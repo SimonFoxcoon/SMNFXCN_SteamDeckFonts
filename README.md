@@ -1,3 +1,4 @@
+
 # SMNFXCN_SteamDeckFonts
 
 A pack of fonts for use with the CSS Loader plugin on the Decky plugin loader for Steam Deck.
@@ -19,31 +20,21 @@ Keep in mind the names of the font must match the name in the .css files.
 
 # FAQ
 
- 1. **Q**: Will you use the manual plugin install function within the CSS
-    Loader to make this process faster and easier?
-    **A**: No, because you will need to obtain these fonts.
-    
- 2. **Q**: Why aren't any of the fonts included? 
-    **A**: Due to copyright issues, I will not host them. Admittedly many of them are easy to find and you do not need all of them, just the ones you want to use.
-    
- 3. **Q**: Will you add this font pack to the official Steam Themes DB 
-     **A**: No. Not with or without the fonts.
-    
- 4. **Q**: What is the purpose? 
-     **A**: To be able to swap between fonts while offline. That's really just it. If it's installed (properly) you will never not be able to access it.
-    
- 5. **Q**: Do I need one font or all fonts in a family? 
-     **A**: You should install all fonts whenever possible. There are several fonts within this pack that do not contain other variations so keep that in mind.
-    
- 6. **Q**: Do you take suggestions? 
-     **A**: Yes, in the issues tab. You can suggest a font by it's font family or the name of the individual font, a Google Fonts link also works if it's easy to access/download. The font should be legible and no dingbat fonts. It should look good within the Deck UI.
-     
- 7. **Q**: Can I edit this? 
-     **A**: Yes, as this is not entirely my original work. Big thanks to [EMERALD0874](https://github.com/EMERALD0874/Steam-Deck-Themes)'s original Steam Deck Fonts theme, which I used as a base for this pack. You should credit them. For me, I do not mind, but it is appreciated. You may use this in your other projects.
-     
- 8. **Q**: Why is there a second Genshin font?
-     **A**: For the sake of convenience, there is a second option. It's the same font, but HYV changed the name of the font found within the files. It can be located within: `GenshinImpact_Data\StreamingAssets\MiHoYoSDKRes\HttpServerResources\font`
-You do not need both.
+**Q**: Will you use the manual plugin install function within the CSS Loader to make this process faster and easier? **A**: No, because you will need to obtain these fonts.
+  
+ **Q**: Why aren't any of the fonts included? **A**: Due to copyright issues, I will not host them. Admittedly many of them are    easy to find and you do not need all of them, just the ones you want to use.
+   
+ **Q**: Will you add this font pack to the official Steam Themes DB **A**: No. Not with or without the fonts.
+
+**Q**: What is the purpose? **A**: To be able to swap between fonts while offline. That's really just it. If it's installed (properly) you will never not be able to access it.
+
+**Q**: Do I need one font or all fonts in a family? **A**: You should install all fonts whenever possible. There are several fonts within this pack that do not contain other variations so keep that in mind.
+
+**Q**: Do you take suggestions? **A**: Yes, in the issues tab. You can suggest a font by it's font family or the name of the individual font, a Google Fonts link also works if it's easy to access/download. The font should be legible and no dingbat fonts. It should look good within the Deck UI.
+
+  **Q**: Can I edit this? **A**: Yes, as this is not entirely my original work. Big thanks to [EMERALD0874](https://github.com/EMERALD0874/Steam-Deck-Themes)'s original Steam Deck Fonts theme, which I used as a base for this pack. You should credit them. For me, I do not mind, but it is appreciated. You may use this in your other projects.
+
+ **Q**: Why is there a second Genshin font?  **A**: For the sake of convenience, there is a second option. It's the same font, but HYV changed the name of the font found within the files. It can be located within:    `GenshinImpact_Data\StreamingAssets\MiHoYoSDKRes\HttpServerResources\font` You do not need both. 
 
 # Credits:
 
