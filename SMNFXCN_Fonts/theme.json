@@ -1,0 +1,77 @@
+{
+  "name": "Fonts - SMNFXCN Fork",
+  "author": "SMNFXCN - Original by EMERALD#0874",
+  "version": "v1.0",
+  "inject": {},
+  "target": "System-Wide",
+  "patches": {
+    "Font": {
+      "default": "None",
+      "None": {},
+      "Ubuntu": {
+        "ubuntu.css": ["SP", "MainMenu", "QuickAccess"]
+      },
+      "Ubuntu Mono": {
+        "ubuntumono.css": ["SP", "MainMenu", "QuickAccess"]
+      },
+      "Google Sans": {
+        "googlesans.css": ["SP", "MainMenu", "QuickAccess"]
+      },
+      "Product Sans": {
+        "productsans.css": ["SP", "MainMenu", "QuickAccess"]
+      },
+      "Youtube Sans": {
+        "youtubesans.css": ["SP", "MainMenu", "QuickAccess"]
+      },
+      "Comic Sans MS": {
+        "comicsans.css": ["SP", "MainMenu", "QuickAccess"]
+      },
+      "Titillium Web": {
+        "titilliumweb.css": ["SP", "MainMenu", "QuickAccess"]
+      },
+      "Bahnschrift": {
+        "bahnschrift.css": ["SP", "MainMenu", "QuickAccess"]
+      },
+      "VCR OSD Mono": {
+        "vcrmono.css": ["SP", "MainMenu", "QuickAccess"]
+      },
+      "Johnston ITC Std (Catherine Font)": {
+        "catherine.css": ["SP", "MainMenu", "QuickAccess"]
+      },
+      "Optima Nova LT Black (Persona 5 Royal Font)": {
+        "p5r.css": ["SP", "MainMenu", "QuickAccess"]
+      },
+      "Personified UX (Persona 5 Font)": {
+        "p5.css": ["SP", "MainMenu", "QuickAccess"]
+      },
+      "FOT-Skip Std (Persona 4 Font)": {
+        "p4.css": ["SP", "MainMenu", "QuickAccess"]
+      },
+      "HYWenHei (Genshin Impact Font)": {
+        "genshin.css": ["SP", "MainMenu", "QuickAccess"]
+      },
+      "SDK_SC_Web (Genshin Impact Font)": {
+        "genshinver2.css": ["SP", "MainMenu", "QuickAccess"]
+      },
+      "Determination Sans (Undertale Font)": {
+        "dtmsans.css": ["SP", "MainMenu", "QuickAccess"]
+      },
+      "Mojangles (Minecraft Font)": {
+        "minecraft.css": ["SP", "MainMenu", "QuickAccess"]
+      },
+      "New Super Mario Font U (NSMBU Font)": {
+        "nsmbu.css": ["SP", "MainMenu", "QuickAccess"]
+      }
+    },
+    "Text Transform": {
+      "default": "None",
+      "None": {},
+      "Standard Case": {
+        "standard-case.css": ["SP", "MainMenu", "QuickAccess"]
+      },
+      "Uppercase": {
+        "uppercase.css": ["SP", "MainMenu", "QuickAccess"]
+      }
+    }
+  }
+}
