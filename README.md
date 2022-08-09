@@ -39,7 +39,7 @@ Keep in mind the names of the font must match the name in the .css files.
      **A**: Yes, in the issues tab. You can suggest a font by it's font family or the name of the individual font, a Google Fonts link also works if it's easy to access/download. The font should be legible and no dingbat fonts. It should look good within the Deck UI.
      
  7. **Q**: Can I edit this? 
-     **A**: Yes, as this is not entirely my original work. Big thanks to [EMERALD0874](https://github.com/EMERALD0874/Steam-Deck-Themes)'s original Steam Deck Fonts theme, which I used as a base for this pack. You should credit them. For me, I do not mind, but it is appreciated.
+     **A**: Yes, as this is not entirely my original work. Big thanks to [EMERALD0874](https://github.com/EMERALD0874/Steam-Deck-Themes)'s original Steam Deck Fonts theme, which I used as a base for this pack. You should credit them. For me, I do not mind, but it is appreciated. You may use this in your other projects.
      
  8. **Q**: Why is there a second Genshin font?
      **A**: For the sake of convenience, there is a second option. It's the same font, but HYV changed the name of the font found within the files. It can be located within: `GenshinImpact_Data\StreamingAssets\MiHoYoSDKRes\HttpServerResources\font`
