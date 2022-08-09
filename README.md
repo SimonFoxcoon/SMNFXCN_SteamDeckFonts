@@ -47,9 +47,15 @@ You do not need both.
 
 # Credits:
 
-EMERALD0874 - [Steam Deck Font theme](https://github.com/EMERALD0874/Steam-Deck-Themes), the base for this theme pack, with my limited knowledge I probably wouldn't have made this.
-suchmememanyskill - Hosting the [CSS Loader Theme DB](https://github.com/suchmememanyskill/CssLoader-ThemeDb), were I had found EMERALD's font theme.
-SteamDeckHombrew - The group behind the [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader).
+ - EMERALD0874 - [Steam Deck Font
+   theme](https://github.com/EMERALD0874/Steam-Deck-Themes), the base
+   for this theme pack, with my limited knowledge I probably wouldn't
+   have made this.
+ - suchmememanyskill - Hosting the [CSS Loader Theme
+   DB](https://github.com/suchmememanyskill/CssLoader-ThemeDb), were I
+   had found EMERALD's font theme.
+ - SteamDeckHombrew - The group behind the [Decky
+   Loader](https://github.com/SteamDeckHomebrew/decky-loader).
 
 # Preview
 
