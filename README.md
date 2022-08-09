@@ -9,13 +9,18 @@ I made this for personal use but then decided to share this.
 # Installation
 
 ### Theme:
-Download the repo using Code -> Download ZIP
-Extract it, and place the `SMNFXCN_Fonts` folder into `/home/deck/homebrew/themes/`
+
+ 1. Download the repo using Code -> Download ZIP
+ 2. Extract it, and place the `SMNFXCN_Fonts` folder into
+    `/home/deck/homebrew/themes/`
 
 ### Fonts:
 Since I am not distributing the fonts that are needed for this theme you will need to find these yourself.
 Once you find these fonts, install them in Desktop Mode.
-Select all the fonts then open the context menu (right click or left trackpad) -> Install -> Personal
+
+ - Select all the fonts then open the context menu (right click or left
+   trackpad) -> Install -> Personal
+
 If you install them system wide they will be wiped when you update SteamOS.
 Keep in mind the names of the font must match the name in the .css files. 
 
@@ -73,4 +78,4 @@ Keep in mind the names of the font must match the name in the .css files.
 This is an edited screenshot.
 ![](https://raw.githubusercontent.com/SimonFoxcoon/SMNFXCN_SteamDeckFonts/main/images/selectmenu.png)
 
-The rest of the font previews can be viewed here: insert link
+The rest of the font previews can be viewed [here](https://github.com/SimonFoxcoon/SMNFXCN_SteamDeckFonts/blob/main/previews.md)
