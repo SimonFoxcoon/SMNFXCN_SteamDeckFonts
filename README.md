@@ -47,7 +47,7 @@ Keep in mind the names of the font must match the name in the .css files.
  - **Q**: Do you take suggestions?
    **A**: Yes, in the issues tab. You can suggest a font by it's font family or the name of the individual font, a Google Fonts link also
    works if it's easy to access/download. The font should be legible and
-   no dingbat fonts. It should look good within the Deck UI.
+   no dingbat fonts. It should look good within the Deck UI. If a font looks bad I may fix it, if I can.
 
  - **Q**: Can I edit this?
    **A**: Yes, as this is not entirely my original work. Big thanks to [EMERALD0874](https://github.com/EMERALD0874/Steam-Deck-Themes)'s
